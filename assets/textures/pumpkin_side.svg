@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>Carved Pumpkin Side</title>
+  <rect width="16" height="16" fill="#c9711b"/>
+  <!-- Vertical ribs of the pumpkin -->
+  <rect x="1" y="0" width="2" height="16" fill="#b55e14"/>
+  <rect x="5" y="0" width="2" height="16" fill="#d9823a"/>
+  <rect x="9" y="0" width="2" height="16" fill="#b55e14"/>
+  <rect x="13" y="0" width="2" height="16" fill="#d9823a"/>
+  <!-- Slight shading at top and bottom -->
+  <rect x="0" y="0" width="16" height="1" fill="#a15110"/>
+  <rect x="0" y="15" width="16" height="1" fill="#9a4c0f"/>
+  <!-- Highlight column -->
+  <rect x="3" y="1" width="1" height="14" fill="#e89a55"/>
+  <rect x="7" y="1" width="1" height="14" fill="#e89a55"/>
+  <rect x="11" y="1" width="1" height="14" fill="#e89a55"/>
+</svg>

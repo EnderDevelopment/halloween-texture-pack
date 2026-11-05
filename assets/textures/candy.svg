@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>Halloween Candy</title>
+  <rect width="16" height="16" fill="#ffffff" opacity="0"/>
+  <!-- Candy wrapper (orange twist) -->
+  <polygon points="1,4 6,6 6,10 1,12 1,4" fill="#e87a1b"/>
+  <polygon points="15,4 10,6 10,10 15,12 15,4" fill="#e87a1b"/>
+  <!-- Candy body -->
+  <rect x="4" y="5" width="8" height="6" fill="#f4e9d8"/>
+  <rect x="4" y="5" width="8" height="1" fill="#d9c7ab"/>
+  <rect x="4" y="10" width="8" height="1" fill="#d9c7ab"/>
+  <!-- Wrapper stripes -->
+  <line x1="1" y1="5" x2="1" y2="3" stroke="#c25c10" stroke-width="1"/>
+  <line x1="3.5" y1="6" x2="2.5" y2="4" stroke="#c25c10" stroke-width="1"/>
+  <line x1="12.5" y1="6" x2="13.5" y2="4" stroke="#c25c10" stroke-width="1"/>
+  <line x1="15" y1="5" x2="15" y2="3" stroke="#c25c10" stroke-width="1"/>
+  <!-- Swirl pattern on candy -->
+  <path d="M6 8 q2 -1 4 0 q-2 -1 -4 0" fill="none" stroke="#e0527a" stroke-width="1"/>
+  <path d="M7 7 q1 -1 2 0 q-1 -1 -2 0" fill="none" stroke="#ff9dbd" stroke-width="1"/>
+</svg>

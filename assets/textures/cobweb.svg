@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>Cobweb</title>
+  <rect width="16" height="16" fill="#d9d2c7"/>
+  <!-- Radial threads -->
+  <line x1="8" y1="8" x2="8" y2="0" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="8" y2="16" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="0" y2="8" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="16" y2="8" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="0" y2="0" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="16" y2="0" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="0" y2="16" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="8" y1="8" x2="16" y2="16" stroke="#b7ad9e" stroke-width="1"/>
+  <!-- Concentric irregular rings -->
+  <polygon points="8,2 4,4 3,8 4,12 8,14 12,12 13,8 12,4" fill="none" stroke="#ddd6cb" stroke-width="1"/>
+  <polygon points="8,4.5 5.5,6 5,8 5.5,10 8,11.5 10.5,10 11,8 10.5,6" fill="none" stroke="#cfc7ba" stroke-width="1"/>
+  <!-- Leftover web wisps -->
+  <line x1="2" y1="0" x2="0" y2="2" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="14" y1="0" x2="16" y2="2" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="0" y1="13" x2="2" y2="15" stroke="#b7ad9e" stroke-width="1"/>
+  <line x1="14" y1="14" x2="16" y2="15" stroke="#b7ad9e" stroke-width="1"/>
+</svg>

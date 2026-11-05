@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <title>Pumpkin Top</title>
+  <rect width="16" height="16" fill="#c9711b"/>
+  <rect x="2" y="0" width="2" height="16" fill="#b55e14"/>
+  <rect x="6" y="0" width="2" height="16" fill="#d9823a"/>
+  <rect x="10" y="0" width="2" height="16" fill="#b55e14"/>
+  <rect x="14" y="0" width="2" height="16" fill="#d9823a"/>
+  <!-- Green stem in the middle -->
+  <rect x="7" y="2" width="3" height="5" fill="#5a7d2a"/>
+  <rect x="8" y="1" width="1" height="2" fill="#5a7d2a"/>
+  <rect x="6" y="2" width="1" height="3" fill="#6e9635"/>
+  <rect x="10" y="2" width="1" height="3" fill="#6e9635"/>
+  <rect x="7" y="3" width="1" height="3" fill="#3e5c1c"/>
+</svg>

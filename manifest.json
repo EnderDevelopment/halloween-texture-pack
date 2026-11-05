@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Halloween 2026 Texture Pack",
+    "description": "A spooky Halloween 2026 texture and GUI pack for Minecraft Bedrock (mobile).",
+    "uuid": "a3b2c1d4-5e6f-4a7b-9c8d-0e1f2a3b4c5d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b4c5d6e7-8f9a-4b1c-8d2e-3f4a5b6c7d8e",
+      "version": [1, 0, 0]
+    }
+  ]
+}
